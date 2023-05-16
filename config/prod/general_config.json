@@ -1,0 +1,27 @@
+{
+  "appId": "10001",
+  "appSecret": "fx8MBdD7cRnkFEhz",
+  "isEncode": false,
+  "redisConfig": {
+
+  },
+  "mongodbConfig": {
+    "connAddress": "mongodb://localhost:27017",
+    "dbName": "match"
+  },
+  "notVerifyRoute": ["player/login"],
+  "adminConfig": {
+    "userName": "admin",
+    "password": "123"
+  },
+  "biLog": {
+    "tdswitch": true,
+    "td": {
+      "tdtype": "debug",
+      "url": "https://ta.me2zengame.com",
+      "bifilepath": "./logs/bilogs",
+      "appid": "b9b476d1d6284397834b2679bc4020dd",
+      "batchsize": 50
+    }
+  }
+}

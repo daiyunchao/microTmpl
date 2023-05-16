@@ -1,0 +1,28 @@
+syntax = "proto3";
+option go_package="./;proto";
+package proto;
+
+service Player{
+  rpc GetInfoById (ReqGetInfoById) returns (ResGetInfo);
+  rpc GetInfoByName (ReqGetInfoByName) returns (ResGetInfo);
+  rpc Register(ReqRegister) returns (ResGetInfo);
+}
+
+message ReqGetInfoById {
+  string Id =1;
+}
+
+message ReqGetInfoByName{
+  string Name =1;
+}
+
+message ResGetInfo {
+  string Id =1;
+  string Name =2;
+  string Password =3;
+}
+
+message  ReqRegister{
+  string Name =1;
+  string Password =2;
+}

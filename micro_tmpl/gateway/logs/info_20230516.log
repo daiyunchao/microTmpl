@@ -1,0 +1,51 @@
+2023-05-16T10:44:01.470+0800	INFO	cmd/main.go:33	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T10:45:53.733+0800	INFO	cmd/main.go:33	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:21:11.567+0800	INFO	cmd/main.go:33	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:22:46.814+0800	INFO	cmd/main.go:33	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:23:49.625+0800	INFO	cmd/main.go:33	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:24:30.589+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:24:34.497+0800	INFO	lib/httpServer.go:45	reqId: 1684207474497776, request Start: /player/login
+2023-05-16T11:24:34.497+0800	WARN	lib/httpServer.go:95	reqId: 1684207474497776,解析参数错误
+2023-05-16T11:24:55.378+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:24:58.195+0800	INFO	lib/httpServer.go:45	reqId: 1684207498195864, request Start: /player/login
+2023-05-16T11:24:58.196+0800	WARN	lib/httpServer.go:95	reqId: 1684207498195864,解析参数错误
+2023-05-16T11:25:11.280+0800	INFO	lib/httpServer.go:45	reqId: 1684207511280614, request Start: /player/login
+2023-05-16T11:25:11.292+0800	WARN	lib/httpServer.go:95	reqId: 1684207511280614,解析参数错误
+2023-05-16T11:25:13.548+0800	INFO	lib/httpServer.go:45	reqId: 1684207513547947, request Start: /player/login
+2023-05-16T11:25:13.555+0800	WARN	lib/httpServer.go:95	reqId: 1684207513547947,解析参数错误
+2023-05-16T11:25:24.690+0800	INFO	lib/httpServer.go:45	reqId: 1684207524690042, request Start: /player/login
+2023-05-16T11:25:24.702+0800	WARN	lib/httpServer.go:95	reqId: 1684207524690042,解析参数错误
+2023-05-16T11:26:57.399+0800	INFO	lib/httpServer.go:45	reqId: 1684207608769344, request Start: /player/login
+2023-05-16T11:27:01.863+0800	WARN	lib/httpServer.go:95	reqId: 1684207608769344,解析参数错误
+2023-05-16T11:27:38.871+0800	INFO	lib/httpServer.go:45	reqId: 1684207651610879, request Start: /player/login
+2023-05-16T11:29:36.871+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:29:46.987+0800	INFO	lib/httpServer.go:45	reqId: 1684207786987731, request Start: /player/login
+2023-05-16T11:30:04.314+0800	WARN	lib/httpServer.go:106	reqId: 1684207786987731,解析参数错误
+2023-05-16T11:30:31.431+0800	INFO	lib/httpServer.go:45	reqId: 1684207831431765, request Start: /player/login
+2023-05-16T11:30:48.950+0800	INFO	lib/httpServer.go:45	reqId: 1684207848950773, request Start: /player/login
+2023-05-16T11:32:43.138+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:32:48.663+0800	INFO	lib/httpServer.go:45	reqId: 1684207968663177, request Start: /player/login
+2023-05-16T11:33:50.092+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:34:11.220+0800	INFO	lib/httpServer.go:45	reqId: 1684208051220131, request Start: /player/login
+2023-05-16T11:35:11.175+0800	INFO	lib/httpServer.go:70	reqId: 1684208051220131,finish,res: {%!s(int=503) <nil> Timeout}
+2023-05-16T11:38:40.783+0800	INFO	lib/httpServer.go:45	reqId: 1684208320783305, request Start: /player/login
+2023-05-16T11:38:51.910+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:38:55.651+0800	INFO	lib/httpServer.go:45	reqId: 1684208335651482, request Start: /player/login
+2023-05-16T11:39:22.597+0800	INFO	lib/httpServer.go:45	reqId: 1684208362597049, request Start: /player/login
+2023-05-16T11:42:29.110+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:42:35.266+0800	INFO	lib/httpServer.go:45	reqId: 1684208555266796, request Start: /player/login
+2023-05-16T11:42:37.748+0800	INFO	lib/httpServer.go:45	reqId: 1684208557748634, request Start: /player/login
+2023-05-16T11:43:35.626+0800	INFO	lib/httpServer.go:45	reqId: 1684208615626205, request Start: /player/login
+2023-05-16T11:44:26.666+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:44:29.004+0800	INFO	lib/httpServer.go:45	reqId: 1684208669004774, request Start: /player/login
+2023-05-16T11:57:12.006+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:57:57.457+0800	INFO	lib/httpServer.go:45	reqId: 1684209477457137, request Start: /player/register
+2023-05-16T11:58:37.742+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T11:58:52.304+0800	INFO	lib/httpServer.go:45	reqId: 1684209523617380, request Start: /player/register
+2023-05-16T11:59:59.141+0800	INFO	lib/httpServer.go:70	reqId: 1684209523617380,finish,res: {%!s(int=503) <nil> Timeout}
+2023-05-16T12:00:20.061+0800	INFO	lib/httpServer.go:45	reqId: 1684209620061496, request Start: /player/register
+2023-05-16T12:01:28.329+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T12:01:34.100+0800	INFO	lib/httpServer.go:45	reqId: 1684209694099248, request Start: /player/register
+2023-05-16T12:03:27.662+0800	INFO	cmd/main.go:34	AppStart: ApiServer Listen 127.0.0.1:8001
+2023-05-16T12:03:31.687+0800	INFO	lib/httpServer.go:45	reqId: 1684209811687344, request Start: /player/register
+2023-05-16T12:03:35.775+0800	INFO	lib/httpServer.go:45	reqId: 1684209815775028, request Start: /player/login
