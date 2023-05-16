@@ -1,6 +1,6 @@
 {
   "appId": "10001",
-  "appSecret": "fx8MBdD7cRnkFEhz",
+  "appSecret": "fx8MBdD7cR111nkFEhz",
   "isEncode": false,
   "redisConfig": {
 
@@ -18,9 +18,9 @@
     "tdswitch": true,
     "td": {
       "tdtype": "debug",
-      "url": "https://ta.me2zengame.com",
+      "url": "",
       "bifilepath": "./logs/bilogs",
-      "appid": "b9b476d1d6284397834b2679bc4020dd",
+      "appid": "",
       "batchsize": 50
     }
   }

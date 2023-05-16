@@ -1,4 +1,0 @@
-{
-  "etcdUrl": "http://etcd:2379",
-  "etcdServerName": "tmpl/player"
-}
